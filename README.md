@@ -23,23 +23,9 @@ Automatycznie otworzy się przeglądarka internetowa z interfejsem Jupyter Noteb
 
 ### Interfejs Jupyter Notebook
 #### Główne elementy:
-| ![obraz](https://github.com/user-attachments/assets/fca5cd2d-eda0-4d0e-9ab1-5bde5c5d84e4) | 1. Pasek menu: Na górze strony, zawiera opcje do zarządzania notebookiem (Plik, Edytuj, Widok).
-2. Pasek narzędzi: Szybki dostęp do najczęściej używanych funkcji (uruchamianie komórek, dodawanie komórek, zapisywanie).
-3. Komórki: Miejsce, w którym piszesz kod lub tekst.
-4. Tryby pracy:
-  a) Tryb poleceń: (niebieska ramka) - pozwala na zarządzanie komórkami.
-  b) Tryb edycji: (zielopomarańczowa ramka) - pozwala pisać kod lub tekst w komórce. |
-|------------------------------------------|--------------------------------------------------------------------|
-
-
 | Elementy       | Opis          |
 | ------------- |:-------------:|
-|![obraz](https://github.com/user-attachments/assets/fca5cd2d-eda0-4d0e-9ab1-5bde5c5d84e4)     |1. Pasek menu: Na górze strony, zawiera opcje do zarządzania notebookiem (Plik, Edytuj, Widok).<br>
-2. Pasek narzędzi: Szybki dostęp do najczęściej używanych funkcji (uruchamianie komórek, dodawanie komórek, zapisywanie).<br>
-3. Komórki: Miejsce, w którym piszesz kod lub tekst.<br>
-4. Tryby pracy:<br>
-  a) Tryb poleceń: (niebieska ramka) - pozwala na zarządzanie komórkami.<br>
-  b) Tryb edycji: (zielopomarańczowa ramka) - pozwala pisać kod lub tekst w komórce. |
+|![obraz](https://github.com/user-attachments/assets/fca5cd2d-eda0-4d0e-9ab1-5bde5c5d84e4)     |1. Pasek menu: Na górze strony, zawiera opcje do zarządzania notebookiem (Plik, Edytuj, Widok). 2. Pasek narzędzi: Szybki dostęp do najczęściej używanych funkcji (uruchamianie komórek, dodawanie komórek, zapisywanie). 3. Komórki: Miejsce, w którym piszesz kod lub tekst.<br> 4. Tryby pracy:<br>   a) Tryb poleceń: (niebieska ramka) - pozwala na zarządzanie komórkami.<br>   b) Tryb edycji: (zielopomarańczowa ramka) - pozwala pisać kod lub tekst w komórce. |
 
 
 1. Pasek menu: Na górze strony, zawiera opcje do zarządzania notebookiem (Plik, Edytuj, Widok).
