@@ -30,20 +30,22 @@ Automatycznie otworzy się przeglądarka internetowa z interfejsem Jupyter Noteb
   a) Tryb poleceń: (niebieska ramka) - pozwala na zarządzanie komórkami.
   b) Tryb edycji: (zielopomarańczowa ramka) - pozwala pisać kod lub tekst w komórce. |
 |------------------------------------------|--------------------------------------------------------------------|
-<div style="display: flex;">
-    <div style="flex: 1;">
-        ![obraz](https://github.com/user-attachments/assets/fca5cd2d-eda0-4d0e-9ab1-5bde5c5d84e4)
-    </div>
-    <div style="flex: 1; padding-left: 10px;">
-        1. Pasek menu: Na górze strony, zawiera opcje do zarządzania notebookiem (Plik, Edytuj, Widok).
-2. Pasek narzędzi: Szybki dostęp do najczęściej używanych funkcji (uruchamianie komórek, dodawanie komórek, zapisywanie).
-3. Komórki: Miejsce, w którym piszesz kod lub tekst.
-4. Tryby pracy:
-  a) Tryb poleceń: (niebieska ramka) - pozwala na zarządzanie komórkami.
-  b) Tryb edycji: (zielopomarańczowa ramka) - pozwala pisać kod lub tekst w komórce. |
-    </div>
-</div>
+Colons can be used to align columns.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 
 1. Pasek menu: Na górze strony, zawiera opcje do zarządzania notebookiem (Plik, Edytuj, Widok).
