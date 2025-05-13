@@ -277,3 +277,5 @@ print('arr.shape:', arr.shape) # (3, 3) - (ilość wierszy, ilość kolumn)
 i wybierz z niej wartości, które są większe od 8 i mniejsze od 2.
 4. Dla (dowolnego rozmiaru większego niż 1) tablicy kwadratowej `A` stworzyć tablicę jednowymiarową, której `k`-ty element to suma elementów `k`-tej kolumny tablicy `A` leżących poniżej głównej przekątnej.
 5. Napisz funkcję `zastap_zera(A, x)`, która zwraca tablicę utworzoną z tablicy `A` (o dowolnym kształcie) poprzez zastąpienie wszystkich elementów równych zero liczbą `x`. Sama tablica `A` powinna pozostać niezmieniona.
+
+> Zadania od 2-5 umieść na repozytorium
